@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 57bfd8fb670364794b5b16793f24f143
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BodyParts-544x500
+    21300002: BodyParts-544x500_0
+    21300004: BodyParts-544x500_1
+    21300006: BodyParts-544x500_2
+    21300008: BodyParts-544x500_3
+    21300010: BodyParts-544x500_4
+    21300012: BodyParts-544x500_5
+    21300014: BodyParts-544x500_6
+    21300016: BodyParts-544x500_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BodyParts-544x500_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 316
+        width: 138
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BodyParts-544x500_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 316
+        width: 137
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BodyParts-544x500_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 326
+        width: 137
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BodyParts-544x500_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 44
+        height: 109
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BodyParts-544x500_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 164
+        width: 60
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BodyParts-544x500_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 173
+        width: 53
+        height: 104
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BodyParts-544x500_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 28
+        width: 58
+        height: 113
+      alignment: 9
+      pivot: {x: .243595257, y: .941819847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BodyParts-544x500_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 28
+        width: 57
+        height: 113
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
